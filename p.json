@@ -1,0 +1,4630 @@
+[
+    {
+        "position": {
+            "page": 1,
+            "position": 1,
+            "global_position": 1
+        },
+        "asin": "B07STLGNQX",
+        "price": {
+            "discounted": false,
+            "current_price": 49.9,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.2
+        },
+        "url": "https://www.amazon.com/dp/B07STLGNQX",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 2,
+            "global_position": 2
+        },
+        "asin": "B0D3BCNTNB",
+        "price": {
+            "discounted": false,
+            "current_price": 36.9,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 3.9
+        },
+        "url": "https://www.amazon.com/dp/B0D3BCNTNB",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 3,
+            "global_position": 3
+        },
+        "asin": "B0D1VDK8S4",
+        "price": {
+            "discounted": false,
+            "current_price": 55.49,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B0D1VDK8S4",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 4,
+            "global_position": 4
+        },
+        "asin": "B086YT3591",
+        "price": {
+            "discounted": true,
+            "current_price": 19.99,
+            "currency": "USD",
+            "before_price": 20.99,
+            "savings_amount": 1,
+            "savings_percent": 4.76
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B086YT3591",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 5,
+            "global_position": 5
+        },
+        "asin": "B093QK8S8R",
+        "price": {
+            "discounted": false,
+            "current_price": 0,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B093QK8S8R",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": true,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 6,
+            "global_position": 6
+        },
+        "asin": "B09XBW71RQ",
+        "price": {
+            "discounted": true,
+            "current_price": 47.97,
+            "currency": "USD",
+            "before_price": 75,
+            "savings_amount": 27.03,
+            "savings_percent": 36.04
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B09XBW71RQ",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": true,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 7,
+            "global_position": 7
+        },
+        "asin": "B07B41G96T",
+        "price": {
+            "discounted": false,
+            "current_price": 0,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B07B41G96T",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": true,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 8,
+            "global_position": 8
+        },
+        "asin": "B0BHPWNFQ8",
+        "price": {
+            "discounted": true,
+            "current_price": 49.02,
+            "currency": "USD",
+            "before_price": 75,
+            "savings_amount": 25.98,
+            "savings_percent": 34.64
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B0BHPWNFQ8",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 9,
+            "global_position": 9
+        },
+        "asin": "B08DXGRX3P",
+        "price": {
+            "discounted": true,
+            "current_price": 31,
+            "currency": "USD",
+            "before_price": 44.95,
+            "savings_amount": 13.95,
+            "savings_percent": 31.03
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.3
+        },
+        "url": "https://www.amazon.com/dp/B08DXGRX3P",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 1,
+            "global_position": 10
+        },
+        "asin": "B0CKJS71DH",
+        "price": {
+            "discounted": true,
+            "current_price": 49.99,
+            "currency": "USD",
+            "before_price": 69.99,
+            "savings_amount": 20,
+            "savings_percent": 28.58
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.3
+        },
+        "url": "https://www.amazon.com/dp/B0CKJS71DH",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 2,
+            "global_position": 11
+        },
+        "asin": "B0BPXWYDSM",
+        "price": {
+            "discounted": true,
+            "current_price": 45.99,
+            "currency": "USD",
+            "before_price": 49.99,
+            "savings_amount": 4,
+            "savings_percent": 8
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B0BPXWYDSM",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 3,
+            "global_position": 12
+        },
+        "asin": "B08ZJ15B78",
+        "price": {
+            "discounted": true,
+            "current_price": 68.99,
+            "currency": "USD",
+            "before_price": 88.99,
+            "savings_amount": 20,
+            "savings_percent": 22.47
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B08ZJ15B78",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 4,
+            "global_position": 13
+        },
+        "asin": "B0D3BC8K36",
+        "price": {
+            "discounted": false,
+            "current_price": 36.9,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 3.9
+        },
+        "url": "https://www.amazon.com/dp/B0D3BC8K36",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 5,
+            "global_position": 14
+        },
+        "asin": "B07H61H4XP",
+        "price": {
+            "discounted": true,
+            "current_price": 40,
+            "currency": "USD",
+            "before_price": 60,
+            "savings_amount": 20,
+            "savings_percent": 33.33
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B07H61H4XP",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 6,
+            "global_position": 15
+        },
+        "asin": "B01KXU25N6",
+        "price": {
+            "discounted": true,
+            "current_price": 60,
+            "currency": "USD",
+            "before_price": 74.95,
+            "savings_amount": 14.95,
+            "savings_percent": 19.95
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B01KXU25N6",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 7,
+            "global_position": 16
+        },
+        "asin": "B0BG92XH6W",
+        "price": {
+            "discounted": false,
+            "current_price": 0,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B0BG92XH6W",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 8,
+            "global_position": 17
+        },
+        "asin": "B00FZN224Y",
+        "price": {
+            "discounted": true,
+            "current_price": 51,
+            "currency": "USD",
+            "before_price": 74,
+            "savings_amount": 23,
+            "savings_percent": 31.08
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B00FZN224Y",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 1,
+            "global_position": 18
+        },
+        "asin": "B0D3BBV3FZ",
+        "price": {
+            "discounted": false,
+            "current_price": 36.9,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 3.9
+        },
+        "url": "https://www.amazon.com/dp/B0D3BBV3FZ",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 2,
+            "global_position": 19
+        },
+        "asin": "B09JBXGTY6",
+        "price": {
+            "discounted": false,
+            "current_price": 21.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.1
+        },
+        "url": "https://www.amazon.com/dp/B09JBXGTY6",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 3,
+            "global_position": 20
+        },
+        "asin": "B07PY1DQSH",
+        "price": {
+            "discounted": false,
+            "current_price": 41.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B07PY1DQSH",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 4,
+            "global_position": 21
+        },
+        "asin": "B0CKJS71DH",
+        "price": {
+            "discounted": true,
+            "current_price": 49.99,
+            "currency": "USD",
+            "before_price": 69.99,
+            "savings_amount": 20,
+            "savings_percent": 28.58
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.3
+        },
+        "url": "https://www.amazon.com/dp/B0CKJS71DH",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 5,
+            "global_position": 22
+        },
+        "asin": "B07VT51998",
+        "price": {
+            "discounted": true,
+            "current_price": 40,
+            "currency": "USD",
+            "before_price": 55,
+            "savings_amount": 15,
+            "savings_percent": 27.27
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B07VT51998",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 6,
+            "global_position": 23
+        },
+        "asin": "B08S2X5FQZ",
+        "price": {
+            "discounted": true,
+            "current_price": 26.99,
+            "currency": "USD",
+            "before_price": 69,
+            "savings_amount": 42.01,
+            "savings_percent": 60.88
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.3
+        },
+        "url": "https://www.amazon.com/dp/B08S2X5FQZ",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 7,
+            "global_position": 24
+        },
+        "asin": "B003TKD7N0",
+        "price": {
+            "discounted": true,
+            "current_price": 62.06,
+            "currency": "USD",
+            "before_price": 71,
+            "savings_amount": 8.94,
+            "savings_percent": 12.59
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B003TKD7N0",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 8,
+            "global_position": 25
+        },
+        "asin": "B07D3LPYLR",
+        "price": {
+            "discounted": false,
+            "current_price": 19.7,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.2
+        },
+        "url": "https://www.amazon.com/dp/B07D3LPYLR",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": true,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 10,
+            "global_position": 26
+        },
+        "asin": "B07H5ZSFDF",
+        "price": {
+            "discounted": true,
+            "current_price": 51.99,
+            "currency": "USD",
+            "before_price": 79,
+            "savings_amount": 27.01,
+            "savings_percent": 34.19
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B07H5ZSFDF",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 11,
+            "global_position": 27
+        },
+        "asin": "B08V1BRS97",
+        "price": {
+            "discounted": false,
+            "current_price": 25.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.3
+        },
+        "url": "https://www.amazon.com/dp/B08V1BRS97",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 12,
+            "global_position": 28
+        },
+        "asin": "B0CKJS71DH",
+        "price": {
+            "discounted": true,
+            "current_price": 49.99,
+            "currency": "USD",
+            "before_price": 69.99,
+            "savings_amount": 20,
+            "savings_percent": 28.58
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.3
+        },
+        "url": "https://www.amazon.com/dp/B0CKJS71DH",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 13,
+            "global_position": 29
+        },
+        "asin": "B09JBXGTY6",
+        "price": {
+            "discounted": false,
+            "current_price": 21.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.1
+        },
+        "url": "https://www.amazon.com/dp/B09JBXGTY6",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 14,
+            "global_position": 30
+        },
+        "asin": "B0D1TC43HG",
+        "price": {
+            "discounted": false,
+            "current_price": 55.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B0D1TC43HG",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 15,
+            "global_position": 31
+        },
+        "asin": "B09GWCJVW5",
+        "price": {
+            "discounted": true,
+            "current_price": 83.66,
+            "currency": "USD",
+            "before_price": 99.95,
+            "savings_amount": 16.29,
+            "savings_percent": 16.3
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B09GWCJVW5",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 16,
+            "global_position": 32
+        },
+        "asin": "B07SVFWMCJ",
+        "price": {
+            "discounted": true,
+            "current_price": 44.95,
+            "currency": "USD",
+            "before_price": 70,
+            "savings_amount": 25.05,
+            "savings_percent": 35.79
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B07SVFWMCJ",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 17,
+            "global_position": 33
+        },
+        "asin": "B092YWBZ4F",
+        "price": {
+            "discounted": true,
+            "current_price": 75,
+            "currency": "USD",
+            "before_price": 79.95,
+            "savings_amount": 4.95,
+            "savings_percent": 6.19
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B092YWBZ4F",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 18,
+            "global_position": 34
+        },
+        "asin": "B0B5VS5NYD",
+        "price": {
+            "discounted": false,
+            "current_price": 36.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B0B5VS5NYD",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 19,
+            "global_position": 35
+        },
+        "asin": "B0CQZ2Q7H6",
+        "price": {
+            "discounted": false,
+            "current_price": 39.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.2
+        },
+        "url": "https://www.amazon.com/dp/B0CQZ2Q7H6",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 20,
+            "global_position": 36
+        },
+        "asin": "B0D1V1JPHR",
+        "price": {
+            "discounted": false,
+            "current_price": 51.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.2
+        },
+        "url": "https://www.amazon.com/dp/B0D1V1JPHR",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 21,
+            "global_position": 37
+        },
+        "asin": "B0CNJSHDFT",
+        "price": {
+            "discounted": false,
+            "current_price": 29.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.2
+        },
+        "url": "https://www.amazon.com/dp/B0CNJSHDFT",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 22,
+            "global_position": 38
+        },
+        "asin": "B07LCQY7H3",
+        "price": {
+            "discounted": false,
+            "current_price": 55.04,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B07LCQY7H3",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 23,
+            "global_position": 39
+        },
+        "asin": "B09Z73K77H",
+        "price": {
+            "discounted": false,
+            "current_price": 89.95,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B09Z73K77H",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 24,
+            "global_position": 40
+        },
+        "asin": "B005OLAKTG",
+        "price": {
+            "discounted": true,
+            "current_price": 49.99,
+            "currency": "USD",
+            "before_price": 70,
+            "savings_amount": 20.01,
+            "savings_percent": 28.59
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.3
+        },
+        "url": "https://www.amazon.com/dp/B005OLAKTG",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 25,
+            "global_position": 41
+        },
+        "asin": "B0BP23P3P5",
+        "price": {
+            "discounted": false,
+            "current_price": 25.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4
+        },
+        "url": "https://www.amazon.com/dp/B0BP23P3P5",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 26,
+            "global_position": 42
+        },
+        "asin": "B08XR1BLMQ",
+        "price": {
+            "discounted": false,
+            "current_price": 84.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B08XR1BLMQ",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 27,
+            "global_position": 43
+        },
+        "asin": "B0CL7J33HC",
+        "price": {
+            "discounted": true,
+            "current_price": 50,
+            "currency": "USD",
+            "before_price": 70,
+            "savings_amount": 20,
+            "savings_percent": 28.57
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 3.6
+        },
+        "url": "https://www.amazon.com/dp/B0CL7J33HC",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 28,
+            "global_position": 44
+        },
+        "asin": "B0C2JXSHSK",
+        "price": {
+            "discounted": false,
+            "current_price": 0,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B0C2JXSHSK",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": true,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 29,
+            "global_position": 45
+        },
+        "asin": "B0755ZRV82",
+        "price": {
+            "discounted": false,
+            "current_price": 72.95,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B0755ZRV82",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 30,
+            "global_position": 46
+        },
+        "asin": "B077HQTBT6",
+        "price": {
+            "discounted": false,
+            "current_price": 19.67,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.2
+        },
+        "url": "https://www.amazon.com/dp/B077HQTBT6",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 31,
+            "global_position": 47
+        },
+        "asin": "B0BXFS8S58",
+        "price": {
+            "discounted": true,
+            "current_price": 42,
+            "currency": "USD",
+            "before_price": 65,
+            "savings_amount": 23,
+            "savings_percent": 35.38
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B0BXFS8S58",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 32,
+            "global_position": 48
+        },
+        "asin": "B09ZF9V2F6",
+        "price": {
+            "discounted": false,
+            "current_price": 0,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B09ZF9V2F6",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 33,
+            "global_position": 49
+        },
+        "asin": "B0BJ7VG2MW",
+        "price": {
+            "discounted": true,
+            "current_price": 118.59,
+            "currency": "USD",
+            "before_price": 139.95,
+            "savings_amount": 21.36,
+            "savings_percent": 15.26
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B0BJ7VG2MW",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 34,
+            "global_position": 50
+        },
+        "asin": "B093TYV83B",
+        "price": {
+            "discounted": false,
+            "current_price": 90,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.7
+        },
+        "url": "https://www.amazon.com/dp/B093TYV83B",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 35,
+            "global_position": 51
+        },
+        "asin": "B072NGG8D4",
+        "price": {
+            "discounted": true,
+            "current_price": 48.75,
+            "currency": "USD",
+            "before_price": 60,
+            "savings_amount": 11.25,
+            "savings_percent": 18.75
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B072NGG8D4",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": true,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 36,
+            "global_position": 52
+        },
+        "asin": "B08C6K87R6",
+        "price": {
+            "discounted": true,
+            "current_price": 31.95,
+            "currency": "USD",
+            "before_price": 50,
+            "savings_amount": 18.05,
+            "savings_percent": 36.1
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B08C6K87R6",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": true,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 37,
+            "global_position": 53
+        },
+        "asin": "B014GNKL96",
+        "price": {
+            "discounted": true,
+            "current_price": 46.97,
+            "currency": "USD",
+            "before_price": 74,
+            "savings_amount": 27.03,
+            "savings_percent": 36.53
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B014GNKL96",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 38,
+            "global_position": 54
+        },
+        "asin": "B08NDMWJV9",
+        "price": {
+            "discounted": true,
+            "current_price": 36.98,
+            "currency": "USD",
+            "before_price": 50.99,
+            "savings_amount": 14.01,
+            "savings_percent": 27.48
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.3
+        },
+        "url": "https://www.amazon.com/dp/B08NDMWJV9",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 39,
+            "global_position": 55
+        },
+        "asin": "B018YLC752",
+        "price": {
+            "discounted": false,
+            "current_price": 3.79,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.7
+        },
+        "url": "https://www.amazon.com/dp/B018YLC752",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 40,
+            "global_position": 56
+        },
+        "asin": "B07B421VFJ",
+        "price": {
+            "discounted": false,
+            "current_price": 0,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B07B421VFJ",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 41,
+            "global_position": 57
+        },
+        "asin": "B0BZ5YR3ZB",
+        "price": {
+            "discounted": true,
+            "current_price": 50,
+            "currency": "USD",
+            "before_price": 100,
+            "savings_amount": 50,
+            "savings_percent": 50
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.1
+        },
+        "url": "https://www.amazon.com/dp/B0BZ5YR3ZB",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 42,
+            "global_position": 58
+        },
+        "asin": "B09DXW5CSS",
+        "price": {
+            "discounted": true,
+            "current_price": 52.49,
+            "currency": "USD",
+            "before_price": 70,
+            "savings_amount": 17.51,
+            "savings_percent": 25.01
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B09DXW5CSS",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": true,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 43,
+            "global_position": 59
+        },
+        "asin": "B0BZ5BJ55J",
+        "price": {
+            "discounted": true,
+            "current_price": 41.49,
+            "currency": "USD",
+            "before_price": 75,
+            "savings_amount": 33.51,
+            "savings_percent": 44.68
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.3
+        },
+        "url": "https://www.amazon.com/dp/B0BZ5BJ55J",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 44,
+            "global_position": 60
+        },
+        "asin": "B0B8PHCRQS",
+        "price": {
+            "discounted": false,
+            "current_price": 0,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B0B8PHCRQS",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 45,
+            "global_position": 61
+        },
+        "asin": "B0CT7HX7XD",
+        "price": {
+            "discounted": true,
+            "current_price": 43.99,
+            "currency": "USD",
+            "before_price": 46.99,
+            "savings_amount": 3,
+            "savings_percent": 6.38
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B0CT7HX7XD",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 46,
+            "global_position": 62
+        },
+        "asin": "B07ZLWKDPV",
+        "price": {
+            "discounted": false,
+            "current_price": 42.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B07ZLWKDPV",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 47,
+            "global_position": 63
+        },
+        "asin": "B07XC5NCP6",
+        "price": {
+            "discounted": true,
+            "current_price": 19.94,
+            "currency": "USD",
+            "before_price": 45,
+            "savings_amount": 25.06,
+            "savings_percent": 55.69
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B07XC5NCP6",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 48,
+            "global_position": 64
+        },
+        "asin": "B002UJUI10",
+        "price": {
+            "discounted": false,
+            "current_price": 56.97,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B002UJUI10",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 49,
+            "global_position": 65
+        },
+        "asin": "B0CNGX82H9",
+        "price": {
+            "discounted": false,
+            "current_price": 23.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B0CNGX82H9",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 50,
+            "global_position": 66
+        },
+        "asin": "B0BZ5CCBJ1",
+        "price": {
+            "discounted": true,
+            "current_price": 57.55,
+            "currency": "USD",
+            "before_price": 75,
+            "savings_amount": 17.45,
+            "savings_percent": 23.27
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B0BZ5CCBJ1",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 51,
+            "global_position": 67
+        },
+        "asin": "B09LFVDMB2",
+        "price": {
+            "discounted": false,
+            "current_price": 49.61,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B09LFVDMB2",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 52,
+            "global_position": 68
+        },
+        "asin": "B099PNJYX9",
+        "price": {
+            "discounted": true,
+            "current_price": 35.25,
+            "currency": "USD",
+            "before_price": 37.88,
+            "savings_amount": 2.63,
+            "savings_percent": 6.94
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.3
+        },
+        "url": "https://www.amazon.com/dp/B099PNJYX9",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 53,
+            "global_position": 69
+        },
+        "asin": "B07ZSC5SC4",
+        "price": {
+            "discounted": true,
+            "current_price": 55,
+            "currency": "USD",
+            "before_price": 65,
+            "savings_amount": 10,
+            "savings_percent": 15.38
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.7
+        },
+        "url": "https://www.amazon.com/dp/B07ZSC5SC4",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": true,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 54,
+            "global_position": 70
+        },
+        "asin": "B000AP3BOM",
+        "price": {
+            "discounted": true,
+            "current_price": 49.99,
+            "currency": "USD",
+            "before_price": 54.95,
+            "savings_amount": 4.96,
+            "savings_percent": 9.03
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B000AP3BOM",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 55,
+            "global_position": 71
+        },
+        "asin": "B08N5H832D",
+        "price": {
+            "discounted": true,
+            "current_price": 58.08,
+            "currency": "USD",
+            "before_price": 75,
+            "savings_amount": 16.92,
+            "savings_percent": 22.56
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B08N5H832D",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 56,
+            "global_position": 72
+        },
+        "asin": "B0BG94597C",
+        "price": {
+            "discounted": true,
+            "current_price": 64.99,
+            "currency": "USD",
+            "before_price": 90,
+            "savings_amount": 25.01,
+            "savings_percent": 27.79
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B0BG94597C",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 57,
+            "global_position": 73
+        },
+        "asin": "B0BRPHLT9K",
+        "price": {
+            "discounted": true,
+            "current_price": 39.53,
+            "currency": "USD",
+            "before_price": 89,
+            "savings_amount": 49.47,
+            "savings_percent": 55.58
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B0BRPHLT9K",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 58,
+            "global_position": 74
+        },
+        "asin": "B09VRB5Q4H",
+        "price": {
+            "discounted": true,
+            "current_price": 38.51,
+            "currency": "USD",
+            "before_price": 65,
+            "savings_amount": 26.49,
+            "savings_percent": 40.75
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B09VRB5Q4H",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 59,
+            "global_position": 75
+        },
+        "asin": "B0C2JWBKL9",
+        "price": {
+            "discounted": false,
+            "current_price": 0,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B0C2JWBKL9",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 1,
+            "position": 60,
+            "global_position": 76
+        },
+        "asin": "B0CJY3ZGWP",
+        "price": {
+            "discounted": false,
+            "current_price": 36.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B0CJY3ZGWP",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 9,
+            "global_position": 77
+        },
+        "asin": "B07B4S94W5",
+        "price": {
+            "discounted": true,
+            "current_price": 39.2,
+            "currency": "USD",
+            "before_price": 65,
+            "savings_amount": 25.8,
+            "savings_percent": 39.69
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B07B4S94W5",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 10,
+            "global_position": 78
+        },
+        "asin": "B0037UZARI",
+        "price": {
+            "discounted": true,
+            "current_price": 58.83,
+            "currency": "USD",
+            "before_price": 67,
+            "savings_amount": 8.17,
+            "savings_percent": 12.19
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B0037UZARI",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 11,
+            "global_position": 79
+        },
+        "asin": "B08SGW3MB3",
+        "price": {
+            "discounted": true,
+            "current_price": 35.99,
+            "currency": "USD",
+            "before_price": 39.99,
+            "savings_amount": 4,
+            "savings_percent": 10
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.2
+        },
+        "url": "https://www.amazon.com/dp/B08SGW3MB3",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 12,
+            "global_position": 80
+        },
+        "asin": "B076BTYBQV",
+        "price": {
+            "discounted": false,
+            "current_price": 59,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B076BTYBQV",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 13,
+            "global_position": 81
+        },
+        "asin": "B09V81FHMY",
+        "price": {
+            "discounted": false,
+            "current_price": 40,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B09V81FHMY",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 14,
+            "global_position": 82
+        },
+        "asin": "B0BHKNZRB9",
+        "price": {
+            "discounted": false,
+            "current_price": 0,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.3
+        },
+        "url": "https://www.amazon.com/dp/B0BHKNZRB9",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 15,
+            "global_position": 83
+        },
+        "asin": "B09WC37VWS",
+        "price": {
+            "discounted": true,
+            "current_price": 54.95,
+            "currency": "USD",
+            "before_price": 70,
+            "savings_amount": 15.05,
+            "savings_percent": 21.5
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B09WC37VWS",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 16,
+            "global_position": 84
+        },
+        "asin": "B0CVWZVH8D",
+        "price": {
+            "discounted": false,
+            "current_price": 29.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.2
+        },
+        "url": "https://www.amazon.com/dp/B0CVWZVH8D",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 17,
+            "global_position": 85
+        },
+        "asin": "B07ZLSTZGB",
+        "price": {
+            "discounted": false,
+            "current_price": 42.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B07ZLSTZGB",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 18,
+            "global_position": 86
+        },
+        "asin": "B087N8MZNJ",
+        "price": {
+            "discounted": false,
+            "current_price": 25.6,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.2
+        },
+        "url": "https://www.amazon.com/dp/B087N8MZNJ",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 19,
+            "global_position": 87
+        },
+        "asin": "B095WTXVBX",
+        "price": {
+            "discounted": true,
+            "current_price": 35.99,
+            "currency": "USD",
+            "before_price": 59.99,
+            "savings_amount": 24,
+            "savings_percent": 40.01
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 3.9
+        },
+        "url": "https://www.amazon.com/dp/B095WTXVBX",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 20,
+            "global_position": 88
+        },
+        "asin": "B09XBWB2FX",
+        "price": {
+            "discounted": true,
+            "current_price": 64.99,
+            "currency": "USD",
+            "before_price": 75,
+            "savings_amount": 10.01,
+            "savings_percent": 13.35
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.3
+        },
+        "url": "https://www.amazon.com/dp/B09XBWB2FX",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 21,
+            "global_position": 89
+        },
+        "asin": "B0CDBSX7KC",
+        "price": {
+            "discounted": true,
+            "current_price": 42.99,
+            "currency": "USD",
+            "before_price": 45.99,
+            "savings_amount": 3,
+            "savings_percent": 6.52
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B0CDBSX7KC",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 22,
+            "global_position": 90
+        },
+        "asin": "B08DXH2Q5C",
+        "price": {
+            "discounted": true,
+            "current_price": 35.4,
+            "currency": "USD",
+            "before_price": 62,
+            "savings_amount": 26.6,
+            "savings_percent": 42.9
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B08DXH2Q5C",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 23,
+            "global_position": 91
+        },
+        "asin": "B0BW8LDS8H",
+        "price": {
+            "discounted": true,
+            "current_price": 25.99,
+            "currency": "USD",
+            "before_price": 49.99,
+            "savings_amount": 24,
+            "savings_percent": 48.01
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.1
+        },
+        "url": "https://www.amazon.com/dp/B0BW8LDS8H",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 24,
+            "global_position": 92
+        },
+        "asin": "B07HJLRXBT",
+        "price": {
+            "discounted": true,
+            "current_price": 61.01,
+            "currency": "USD",
+            "before_price": 70,
+            "savings_amount": 8.99,
+            "savings_percent": 12.84
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B07HJLRXBT",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 26,
+            "global_position": 94
+        },
+        "asin": "B08V1BRS97",
+        "price": {
+            "discounted": false,
+            "current_price": 25.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.3
+        },
+        "url": "https://www.amazon.com/dp/B08V1BRS97",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 27,
+            "global_position": 95
+        },
+        "asin": "B0BXFSN21P",
+        "price": {
+            "discounted": true,
+            "current_price": 39.97,
+            "currency": "USD",
+            "before_price": 65,
+            "savings_amount": 25.03,
+            "savings_percent": 38.51
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B0BXFSN21P",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 28,
+            "global_position": 96
+        },
+        "asin": "B09J5GCWGG",
+        "price": {
+            "discounted": false,
+            "current_price": 0,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B09J5GCWGG",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 29,
+            "global_position": 97
+        },
+        "asin": "B094BZ241K",
+        "price": {
+            "discounted": true,
+            "current_price": 70,
+            "currency": "USD",
+            "before_price": 100,
+            "savings_amount": 30,
+            "savings_percent": 30
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B094BZ241K",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 30,
+            "global_position": 98
+        },
+        "asin": "B083T6FWDD",
+        "price": {
+            "discounted": true,
+            "current_price": 49.77,
+            "currency": "USD",
+            "before_price": 80,
+            "savings_amount": 30.23,
+            "savings_percent": 37.79
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B083T6FWDD",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 31,
+            "global_position": 99
+        },
+        "asin": "B0C3LM4VQY",
+        "price": {
+            "discounted": true,
+            "current_price": 31.99,
+            "currency": "USD",
+            "before_price": 39.99,
+            "savings_amount": 8,
+            "savings_percent": 20.01
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B0C3LM4VQY",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 32,
+            "global_position": 100
+        },
+        "asin": "B08S2X5FQZ",
+        "price": {
+            "discounted": true,
+            "current_price": 26.99,
+            "currency": "USD",
+            "before_price": 69,
+            "savings_amount": 42.01,
+            "savings_percent": 60.88
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.3
+        },
+        "url": "https://www.amazon.com/dp/B08S2X5FQZ",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 33,
+            "global_position": 101
+        },
+        "asin": "B07B84DWDF",
+        "price": {
+            "discounted": true,
+            "current_price": 49.98,
+            "currency": "USD",
+            "before_price": 69.98,
+            "savings_amount": 20,
+            "savings_percent": 28.58
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.2
+        },
+        "url": "https://www.amazon.com/dp/B07B84DWDF",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 34,
+            "global_position": 102
+        },
+        "asin": "B0BYTGTSRY",
+        "price": {
+            "discounted": false,
+            "current_price": 149.95,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B0BYTGTSRY",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 35,
+            "global_position": 103
+        },
+        "asin": "B00MAMFV96",
+        "price": {
+            "discounted": true,
+            "current_price": 52.99,
+            "currency": "USD",
+            "before_price": 75,
+            "savings_amount": 22.01,
+            "savings_percent": 29.35
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B00MAMFV96",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 36,
+            "global_position": 104
+        },
+        "asin": "B0BXK757TJ",
+        "price": {
+            "discounted": true,
+            "current_price": 26.99,
+            "currency": "USD",
+            "before_price": 44.99,
+            "savings_amount": 18,
+            "savings_percent": 40.01
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B0BXK757TJ",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 37,
+            "global_position": 105
+        },
+        "asin": "B0BW8C269Z",
+        "price": {
+            "discounted": false,
+            "current_price": 26.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.2
+        },
+        "url": "https://www.amazon.com/dp/B0BW8C269Z",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 38,
+            "global_position": 106
+        },
+        "asin": "B0CKGHVWP9",
+        "price": {
+            "discounted": true,
+            "current_price": 39.99,
+            "currency": "USD",
+            "before_price": 59.99,
+            "savings_amount": 20,
+            "savings_percent": 33.34
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.1
+        },
+        "url": "https://www.amazon.com/dp/B0CKGHVWP9",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 39,
+            "global_position": 107
+        },
+        "asin": "B07VQ4QTRL",
+        "price": {
+            "discounted": true,
+            "current_price": 40,
+            "currency": "USD",
+            "before_price": 55,
+            "savings_amount": 15,
+            "savings_percent": 27.27
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B07VQ4QTRL",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 40,
+            "global_position": 108
+        },
+        "asin": "B00R54X16E",
+        "price": {
+            "discounted": true,
+            "current_price": 26.98,
+            "currency": "USD",
+            "before_price": 65,
+            "savings_amount": 38.02,
+            "savings_percent": 58.49
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.3
+        },
+        "url": "https://www.amazon.com/dp/B00R54X16E",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 41,
+            "global_position": 109
+        },
+        "asin": "B000FA1KH2",
+        "price": {
+            "discounted": true,
+            "current_price": 50.87,
+            "currency": "USD",
+            "before_price": 69,
+            "savings_amount": 18.13,
+            "savings_percent": 26.28
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B000FA1KH2",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 42,
+            "global_position": 110
+        },
+        "asin": "B099RPHTN1",
+        "price": {
+            "discounted": true,
+            "current_price": 36.98,
+            "currency": "USD",
+            "before_price": 39.99,
+            "savings_amount": 3.01,
+            "savings_percent": 7.53
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B099RPHTN1",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 43,
+            "global_position": 111
+        },
+        "asin": "B08KJB8TFX",
+        "price": {
+            "discounted": true,
+            "current_price": 39.98,
+            "currency": "USD",
+            "before_price": 85,
+            "savings_amount": 45.02,
+            "savings_percent": 52.96
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B08KJB8TFX",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 44,
+            "global_position": 112
+        },
+        "asin": "B08G4SX4VY",
+        "price": {
+            "discounted": true,
+            "current_price": 44.97,
+            "currency": "USD",
+            "before_price": 74.95,
+            "savings_amount": 29.98,
+            "savings_percent": 40
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.2
+        },
+        "url": "https://www.amazon.com/dp/B08G4SX4VY",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 45,
+            "global_position": 113
+        },
+        "asin": "B0C29M34GL",
+        "price": {
+            "discounted": false,
+            "current_price": 0,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B0C29M34GL",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 46,
+            "global_position": 114
+        },
+        "asin": "B0BZDRRW39",
+        "price": {
+            "discounted": true,
+            "current_price": 54.95,
+            "currency": "USD",
+            "before_price": 70,
+            "savings_amount": 15.05,
+            "savings_percent": 21.5
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B0BZDRRW39",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 47,
+            "global_position": 115
+        },
+        "asin": "B0D31FGPQJ",
+        "price": {
+            "discounted": false,
+            "current_price": 42.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.7
+        },
+        "url": "https://www.amazon.com/dp/B0D31FGPQJ",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 48,
+            "global_position": 116
+        },
+        "asin": "B0CGL8M3T5",
+        "price": {
+            "discounted": true,
+            "current_price": 29.99,
+            "currency": "USD",
+            "before_price": 39.99,
+            "savings_amount": 10,
+            "savings_percent": 25.01
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B0CGL8M3T5",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 49,
+            "global_position": 117
+        },
+        "asin": "B08S9Y3XCD",
+        "price": {
+            "discounted": true,
+            "current_price": 56.03,
+            "currency": "USD",
+            "before_price": 79,
+            "savings_amount": 22.97,
+            "savings_percent": 29.08
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B08S9Y3XCD",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 50,
+            "global_position": 118
+        },
+        "asin": "B0BG92RYRP",
+        "price": {
+            "discounted": true,
+            "current_price": 45,
+            "currency": "USD",
+            "before_price": 70,
+            "savings_amount": 25,
+            "savings_percent": 35.71
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B0BG92RYRP",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 51,
+            "global_position": 119
+        },
+        "asin": "B09TQ2MV9H",
+        "price": {
+            "discounted": true,
+            "current_price": 35.98,
+            "currency": "USD",
+            "before_price": 65,
+            "savings_amount": 29.02,
+            "savings_percent": 44.65
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.3
+        },
+        "url": "https://www.amazon.com/dp/B09TQ2MV9H",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 52,
+            "global_position": 120
+        },
+        "asin": "B0C5JQPF8Y",
+        "price": {
+            "discounted": true,
+            "current_price": 14.99,
+            "currency": "USD",
+            "before_price": 19.99,
+            "savings_amount": 5,
+            "savings_percent": 25.01
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.3
+        },
+        "url": "https://www.amazon.com/dp/B0C5JQPF8Y",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 53,
+            "global_position": 121
+        },
+        "asin": "B0C6CK9269",
+        "price": {
+            "discounted": true,
+            "current_price": 39.99,
+            "currency": "USD",
+            "before_price": 55,
+            "savings_amount": 15.01,
+            "savings_percent": 27.29
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B0C6CK9269",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 54,
+            "global_position": 122
+        },
+        "asin": "B0BZDT4T5D",
+        "price": {
+            "discounted": false,
+            "current_price": 0,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.2
+        },
+        "url": "https://www.amazon.com/dp/B0BZDT4T5D",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 55,
+            "global_position": 123
+        },
+        "asin": "B0BNC15FSD",
+        "price": {
+            "discounted": true,
+            "current_price": 47.78,
+            "currency": "USD",
+            "before_price": 52.5,
+            "savings_amount": 4.72,
+            "savings_percent": 8.99
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B0BNC15FSD",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 56,
+            "global_position": 124
+        },
+        "asin": "B091KGQQMJ",
+        "price": {
+            "discounted": true,
+            "current_price": 53.03,
+            "currency": "USD",
+            "before_price": 65,
+            "savings_amount": 11.97,
+            "savings_percent": 18.42
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B091KGQQMJ",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 57,
+            "global_position": 125
+        },
+        "asin": "B09B8RSV2N",
+        "price": {
+            "discounted": false,
+            "current_price": 34.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.3
+        },
+        "url": "https://www.amazon.com/dp/B09B8RSV2N",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 58,
+            "global_position": 126
+        },
+        "asin": "B09LG9FLWL",
+        "price": {
+            "discounted": false,
+            "current_price": 0,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B09LG9FLWL",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 59,
+            "global_position": 127
+        },
+        "asin": "B07RV9CMWF",
+        "price": {
+            "discounted": true,
+            "current_price": 42.99,
+            "currency": "USD",
+            "before_price": 60.99,
+            "savings_amount": 18,
+            "savings_percent": 29.51
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.3
+        },
+        "url": "https://www.amazon.com/dp/B07RV9CMWF",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 2,
+            "position": 60,
+            "global_position": 128
+        },
+        "asin": "B09ZWFCMR5",
+        "price": {
+            "discounted": true,
+            "current_price": 39.97,
+            "currency": "USD",
+            "before_price": 60,
+            "savings_amount": 20.03,
+            "savings_percent": 33.38
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B09ZWFCMR5",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 9,
+            "global_position": 129
+        },
+        "asin": "B0C2JYPTKG",
+        "price": {
+            "discounted": true,
+            "current_price": 69.37,
+            "currency": "USD",
+            "before_price": 100,
+            "savings_amount": 30.63,
+            "savings_percent": 30.63
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.1
+        },
+        "url": "https://www.amazon.com/dp/B0C2JYPTKG",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 10,
+            "global_position": 130
+        },
+        "asin": "B0BXK757TJ",
+        "price": {
+            "discounted": true,
+            "current_price": 26.99,
+            "currency": "USD",
+            "before_price": 44.99,
+            "savings_amount": 18,
+            "savings_percent": 40.01
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B0BXK757TJ",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 11,
+            "global_position": 131
+        },
+        "asin": "B088366TMJ",
+        "price": {
+            "discounted": false,
+            "current_price": 23.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.2
+        },
+        "url": "https://www.amazon.com/dp/B088366TMJ",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 13,
+            "global_position": 133
+        },
+        "asin": "B09MRY8GJX",
+        "price": {
+            "discounted": false,
+            "current_price": 25.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.3
+        },
+        "url": "https://www.amazon.com/dp/B09MRY8GJX",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 14,
+            "global_position": 134
+        },
+        "asin": "B0D3LMWBXN",
+        "price": {
+            "discounted": true,
+            "current_price": 21.99,
+            "currency": "USD",
+            "before_price": 25.99,
+            "savings_amount": 4,
+            "savings_percent": 15.39
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B0D3LMWBXN",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 15,
+            "global_position": 135
+        },
+        "asin": "B0BZ5FLH65",
+        "price": {
+            "discounted": true,
+            "current_price": 39.95,
+            "currency": "USD",
+            "before_price": 65,
+            "savings_amount": 25.05,
+            "savings_percent": 38.54
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B0BZ5FLH65",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 16,
+            "global_position": 136
+        },
+        "asin": "B00FF5ATLA",
+        "price": {
+            "discounted": true,
+            "current_price": 52.99,
+            "currency": "USD",
+            "before_price": 74,
+            "savings_amount": 21.01,
+            "savings_percent": 28.39
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B00FF5ATLA",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 17,
+            "global_position": 137
+        },
+        "asin": "B0037UZARI",
+        "price": {
+            "discounted": true,
+            "current_price": 58.83,
+            "currency": "USD",
+            "before_price": 67,
+            "savings_amount": 8.17,
+            "savings_percent": 12.19
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B0037UZARI",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 18,
+            "global_position": 138
+        },
+        "asin": "B0C2JXM1LX",
+        "price": {
+            "discounted": true,
+            "current_price": 52,
+            "currency": "USD",
+            "before_price": 80,
+            "savings_amount": 28,
+            "savings_percent": 35
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B0C2JXM1LX",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 19,
+            "global_position": 139
+        },
+        "asin": "B0B5LNMWL6",
+        "price": {
+            "discounted": false,
+            "current_price": 29.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.3
+        },
+        "url": "https://www.amazon.com/dp/B0B5LNMWL6",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 20,
+            "global_position": 140
+        },
+        "asin": "B0CQZ2Q7H6",
+        "price": {
+            "discounted": false,
+            "current_price": 39.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.2
+        },
+        "url": "https://www.amazon.com/dp/B0CQZ2Q7H6",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 21,
+            "global_position": 141
+        },
+        "asin": "B0BPXW88CH",
+        "price": {
+            "discounted": true,
+            "current_price": 45.99,
+            "currency": "USD",
+            "before_price": 49.99,
+            "savings_amount": 4,
+            "savings_percent": 8
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B0BPXW88CH",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 22,
+            "global_position": 142
+        },
+        "asin": "B0BKFWM3VF",
+        "price": {
+            "discounted": false,
+            "current_price": 22.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4
+        },
+        "url": "https://www.amazon.com/dp/B0BKFWM3VF",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 23,
+            "global_position": 143
+        },
+        "asin": "B0CQP48KG8",
+        "price": {
+            "discounted": false,
+            "current_price": 24.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4
+        },
+        "url": "https://www.amazon.com/dp/B0CQP48KG8",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 24,
+            "global_position": 144
+        },
+        "asin": "B0CNCY226S",
+        "price": {
+            "discounted": false,
+            "current_price": 21.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B0CNCY226S",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 25,
+            "global_position": 145
+        },
+        "asin": "B0BYTGTSRY",
+        "price": {
+            "discounted": false,
+            "current_price": 149.95,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B0BYTGTSRY",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 26,
+            "global_position": 146
+        },
+        "asin": "B093TZP7HM",
+        "price": {
+            "discounted": true,
+            "current_price": 59.9,
+            "currency": "USD",
+            "before_price": 79.95,
+            "savings_amount": 20.05,
+            "savings_percent": 25.08
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B093TZP7HM",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 27,
+            "global_position": 147
+        },
+        "asin": "B0BLGT4S7W",
+        "price": {
+            "discounted": false,
+            "current_price": 44.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.3
+        },
+        "url": "https://www.amazon.com/dp/B0BLGT4S7W",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 28,
+            "global_position": 148
+        },
+        "asin": "B0CL7HM7PH",
+        "price": {
+            "discounted": true,
+            "current_price": 34.95,
+            "currency": "USD",
+            "before_price": 60,
+            "savings_amount": 25.05,
+            "savings_percent": 41.75
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 3.3
+        },
+        "url": "https://www.amazon.com/dp/B0CL7HM7PH",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 29,
+            "global_position": 149
+        },
+        "asin": "B07B4YZT3P",
+        "price": {
+            "discounted": true,
+            "current_price": 35.98,
+            "currency": "USD",
+            "before_price": 70,
+            "savings_amount": 34.02,
+            "savings_percent": 48.6
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B07B4YZT3P",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 30,
+            "global_position": 150
+        },
+        "asin": "B00RBA881A",
+        "price": {
+            "discounted": false,
+            "current_price": 69.95,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.7
+        },
+        "url": "https://www.amazon.com/dp/B00RBA881A",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 31,
+            "global_position": 151
+        },
+        "asin": "B0CGL8M3T5",
+        "price": {
+            "discounted": true,
+            "current_price": 29.99,
+            "currency": "USD",
+            "before_price": 39.99,
+            "savings_amount": 10,
+            "savings_percent": 25.01
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B0CGL8M3T5",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 32,
+            "global_position": 152
+        },
+        "asin": "B07F2KTZTC",
+        "price": {
+            "discounted": true,
+            "current_price": 54.38,
+            "currency": "USD",
+            "before_price": 80,
+            "savings_amount": 25.62,
+            "savings_percent": 32.02
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B07F2KTZTC",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 33,
+            "global_position": 153
+        },
+        "asin": "B0CZ3Y16HV",
+        "price": {
+            "discounted": false,
+            "current_price": 47.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.3
+        },
+        "url": "https://www.amazon.com/dp/B0CZ3Y16HV",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 34,
+            "global_position": 154
+        },
+        "asin": "B08S9Y3XCD",
+        "price": {
+            "discounted": true,
+            "current_price": 56.03,
+            "currency": "USD",
+            "before_price": 79,
+            "savings_amount": 22.97,
+            "savings_percent": 29.08
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B08S9Y3XCD",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 35,
+            "global_position": 155
+        },
+        "asin": "B09XRDYJ2Q",
+        "price": {
+            "discounted": false,
+            "current_price": 74.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B09XRDYJ2Q",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 36,
+            "global_position": 156
+        },
+        "asin": "B0C6CB358J",
+        "price": {
+            "discounted": true,
+            "current_price": 43.2,
+            "currency": "USD",
+            "before_price": 55,
+            "savings_amount": 11.8,
+            "savings_percent": 21.45
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.7
+        },
+        "url": "https://www.amazon.com/dp/B0C6CB358J",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 37,
+            "global_position": 157
+        },
+        "asin": "B0BHPVZF8P",
+        "price": {
+            "discounted": true,
+            "current_price": 65,
+            "currency": "USD",
+            "before_price": 75,
+            "savings_amount": 10,
+            "savings_percent": 13.33
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B0BHPVZF8P",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 38,
+            "global_position": 158
+        },
+        "asin": "B0BTD8XXVX",
+        "price": {
+            "discounted": true,
+            "current_price": 46.95,
+            "currency": "USD",
+            "before_price": 75,
+            "savings_amount": 28.05,
+            "savings_percent": 37.4
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B0BTD8XXVX",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 39,
+            "global_position": 159
+        },
+        "asin": "B0BFBQ57V6",
+        "price": {
+            "discounted": false,
+            "current_price": 0,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B0BFBQ57V6",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 40,
+            "global_position": 160
+        },
+        "asin": "B0C5JQPF8Y",
+        "price": {
+            "discounted": true,
+            "current_price": 14.99,
+            "currency": "USD",
+            "before_price": 19.99,
+            "savings_amount": 5,
+            "savings_percent": 25.01
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.3
+        },
+        "url": "https://www.amazon.com/dp/B0C5JQPF8Y",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 41,
+            "global_position": 161
+        },
+        "asin": "B0BCHJXJ82",
+        "price": {
+            "discounted": true,
+            "current_price": 45,
+            "currency": "USD",
+            "before_price": 70,
+            "savings_amount": 25,
+            "savings_percent": 35.71
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B0BCHJXJ82",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 42,
+            "global_position": 162
+        },
+        "asin": "B09LG9FLWL",
+        "price": {
+            "discounted": false,
+            "current_price": 0,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B09LG9FLWL",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 43,
+            "global_position": 163
+        },
+        "asin": "B08Z6ZR6BK",
+        "price": {
+            "discounted": true,
+            "current_price": 34.88,
+            "currency": "USD",
+            "before_price": 50,
+            "savings_amount": 15.12,
+            "savings_percent": 30.24
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B08Z6ZR6BK",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 44,
+            "global_position": 164
+        },
+        "asin": "B091KGQQMJ",
+        "price": {
+            "discounted": true,
+            "current_price": 53.03,
+            "currency": "USD",
+            "before_price": 65,
+            "savings_amount": 11.97,
+            "savings_percent": 18.42
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B091KGQQMJ",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 45,
+            "global_position": 165
+        },
+        "asin": "B07YVJHPTP",
+        "price": {
+            "discounted": true,
+            "current_price": 42.31,
+            "currency": "USD",
+            "before_price": 70,
+            "savings_amount": 27.69,
+            "savings_percent": 39.56
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B07YVJHPTP",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 46,
+            "global_position": 166
+        },
+        "asin": "B0BNQZ4ZBC",
+        "price": {
+            "discounted": false,
+            "current_price": 0,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B0BNQZ4ZBC",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 47,
+            "global_position": 167
+        },
+        "asin": "B0BHX6WPX2",
+        "price": {
+            "discounted": true,
+            "current_price": 37.64,
+            "currency": "USD",
+            "before_price": 40,
+            "savings_amount": 2.36,
+            "savings_percent": 5.9
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.2
+        },
+        "url": "https://www.amazon.com/dp/B0BHX6WPX2",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 48,
+            "global_position": 168
+        },
+        "asin": "B0BNC15FSD",
+        "price": {
+            "discounted": true,
+            "current_price": 47.78,
+            "currency": "USD",
+            "before_price": 52.5,
+            "savings_amount": 4.72,
+            "savings_percent": 8.99
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B0BNC15FSD",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 49,
+            "global_position": 169
+        },
+        "asin": "B09B8RSV2N",
+        "price": {
+            "discounted": false,
+            "current_price": 34.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.3
+        },
+        "url": "https://www.amazon.com/dp/B09B8RSV2N",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 50,
+            "global_position": 170
+        },
+        "asin": "B0CKZXZ716",
+        "price": {
+            "discounted": true,
+            "current_price": 39,
+            "currency": "USD",
+            "before_price": 85,
+            "savings_amount": 46,
+            "savings_percent": 54.12
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B0CKZXZ716",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 51,
+            "global_position": 171
+        },
+        "asin": "B09B8MB4VB",
+        "price": {
+            "discounted": true,
+            "current_price": 52.88,
+            "currency": "USD",
+            "before_price": 75,
+            "savings_amount": 22.12,
+            "savings_percent": 29.49
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.3
+        },
+        "url": "https://www.amazon.com/dp/B09B8MB4VB",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 52,
+            "global_position": 172
+        },
+        "asin": "B008P7M11Q",
+        "price": {
+            "discounted": true,
+            "current_price": 40.22,
+            "currency": "USD",
+            "before_price": 44.95,
+            "savings_amount": 4.73,
+            "savings_percent": 10.52
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B008P7M11Q",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 53,
+            "global_position": 173
+        },
+        "asin": "B0CY5Q1FLD",
+        "price": {
+            "discounted": true,
+            "current_price": 39.99,
+            "currency": "USD",
+            "before_price": 59.99,
+            "savings_amount": 20,
+            "savings_percent": 33.34
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.1
+        },
+        "url": "https://www.amazon.com/dp/B0CY5Q1FLD",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 54,
+            "global_position": 174
+        },
+        "asin": "B0CJX256VP",
+        "price": {
+            "discounted": false,
+            "current_price": 64.95,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.6
+        },
+        "url": "https://www.amazon.com/dp/B0CJX256VP",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 55,
+            "global_position": 175
+        },
+        "asin": "B0CRH9TCBH",
+        "price": {
+            "discounted": false,
+            "current_price": 26.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B0CRH9TCBH",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 56,
+            "global_position": 176
+        },
+        "asin": "B09ZWFCMR5",
+        "price": {
+            "discounted": true,
+            "current_price": 39.97,
+            "currency": "USD",
+            "before_price": 60,
+            "savings_amount": 20.03,
+            "savings_percent": 33.38
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.5
+        },
+        "url": "https://www.amazon.com/dp/B09ZWFCMR5",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 57,
+            "global_position": 177
+        },
+        "asin": "B0CZRM2B79",
+        "price": {
+            "discounted": false,
+            "current_price": 45.99,
+            "currency": "USD",
+            "before_price": 0,
+            "savings_amount": 0,
+            "savings_percent": 0
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.7
+        },
+        "url": "https://www.amazon.com/dp/B0CZRM2B79",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 58,
+            "global_position": 178
+        },
+        "asin": "B0CR2SHTHG",
+        "price": {
+            "discounted": true,
+            "current_price": 19.99,
+            "currency": "USD",
+            "before_price": 36.99,
+            "savings_amount": 17,
+            "savings_percent": 45.96
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 3.6
+        },
+        "url": "https://www.amazon.com/dp/B0CR2SHTHG",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 59,
+            "global_position": 179
+        },
+        "asin": "B0B4S9CZ5G",
+        "price": {
+            "discounted": true,
+            "current_price": 41.55,
+            "currency": "USD",
+            "before_price": 55,
+            "savings_amount": 13.45,
+            "savings_percent": 24.45
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.3
+        },
+        "url": "https://www.amazon.com/dp/B0B4S9CZ5G",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    },
+    {
+        "position": {
+            "page": 3,
+            "position": 60,
+            "global_position": 180
+        },
+        "asin": "B0C6CK9268",
+        "price": {
+            "discounted": true,
+            "current_price": 38.19,
+            "currency": "USD",
+            "before_price": 55,
+            "savings_amount": 16.81,
+            "savings_percent": 30.56
+        },
+        "reviews": {
+            "total_reviews": 0,
+            "rating": 4.4
+        },
+        "url": "https://www.amazon.com/dp/B0C6CK9268",
+        "score": 0,
+        "sponsored": false,
+        "amazonChoice": false,
+        "bestSeller": false,
+        "amazonPrime": false
+    }
+]

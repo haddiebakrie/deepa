@@ -1,0 +1,12 @@
+fastapi==0.96.1
+bcrypt==4.0.1
+email-validator==2.0.0.post2
+python-jose==3.3.0
+passwordgenerator==1.5.1
+python-dotenv==0.13.0
+passlib==1.7.4
+python-jwt==4.0.0
+requests
+psycopg2-binary==2.9.7
+python-multipart
+beautifulsoup4
