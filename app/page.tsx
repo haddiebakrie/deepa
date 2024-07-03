@@ -7,16 +7,24 @@ import Integration from "./components/Integration";
 import ScrollToTop from "./components/ScrollToTop";
 import Footer from "./components/Footer";
 import CTA from "./components/CTA";
+import UserProvider from "./context/userContext";
+import Header from "./components/Header";
 
 export default function Home() {
   return (
     <main>
+    <UserProvider>
+    <Header></Header>
+
       <Hero></Hero>
       <Features></Features>
       <FeaturesTab></FeaturesTab>
       <FunFact></FunFact>
       <Integration></Integration>
       <CTA></CTA>
+    <Footer></Footer>
+
+    </UserProvider>
     </main>
   );
 }

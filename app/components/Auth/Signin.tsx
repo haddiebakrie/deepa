@@ -2,15 +2,51 @@
 import { motion } from "framer-motion";
 import Image from "next/image";
 import Link from "next/link";
-import { useState } from "react";
+import { FormEvent, useEffect, useState } from "react";
 import dl from "../../public/images/shape/shape-dotted-light.svg"
 import dd from "../../public/images/shape/shape-dotted-dark.svg"
+import { useUser } from "../../../app/context/userContext";
+import { useRouter } from "next/navigation";
 
 const Signin = () => {
+  const router = useRouter();
   const [data, setData] = useState({
     email: "",
     password: "",
   });
+  const userContext = useUser();
+  
+
+
+  async function onSubmit(event: FormEvent<HTMLFormElement>) {
+    event.preventDefault()
+ 
+    const formData = new FormData(event.currentTarget)
+    const response = await fetch("http://127.0.0.1:8000/login",
+    {
+        method: "POST",
+        body: formData
+    })
+
+    if (!response.ok) {
+      throw new Error(`Error: ${response.statusText}`)
+  }
+ 
+    // Handle response if necessary
+    const data = await response.json()
+    console.log(data)
+    const phone = formData.get("username")!.toString();
+    if (data.access_token) {
+      window.localStorage.setItem("token", data.access_token)
+      setTimeout(() => router.push("/dashboard"), 100);
+
+
+    } else {
+        alert("User creation failed.")
+    
+    }
+  }
+
 
   return (
     <>
@@ -55,12 +91,12 @@ const Signin = () => {
               Login to Your Account
             </h2>
 
-            <form>
+            <form onSubmit={onSubmit}>
               <div className="mb-7.5 flex flex-col gap-7.5 lg:mb-12.5 lg:flex-col lg:justify-between lg:gap-14">
                 <input
                   type="text"
                   placeholder="Phone Number"
-                  name="email"
+                  name="username"
                   value={data.email}
                   onChange={(e) => setData({ ...data, email: e.target.value })}
                   className="w-full border-b border-stroke !bg-white pb-3.5 focus:border-waterloo focus:placeholder:text-black focus-visible:outline-none dark:border-strokedark dark:!bg-black dark:focus:border-manatee dark:focus:placeholder:text-white lg:w-1/2"

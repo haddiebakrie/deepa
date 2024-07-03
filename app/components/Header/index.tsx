@@ -29,15 +29,15 @@ const Header = () => {
   });
 
   return (
-    <header
+    <div
       className={`fixed left-0 top-0 z-99999 w-full py-7 ${
         stickyMenu
           ? "bg-white !py-4 shadow transition duration-100 dark:bg-black"
           : ""
       }`}
     >
-      <div className="relative mx-auto max-w-c-1390 items-center justify-between px-4 md:px-8 xl:flex 2xl:px-0">
-        <div className="flex w-full items-center justify-between xl:w-1/4">
+      <div className="relative mx-auto max-w-c-1390 items-center justify-between px-4 md:px-8 md:flex 2xl:px-0">
+        <div className="flex w-full items-center justify-between md:w-1/4">
           <a href="/">
             <Image
               src={logoDark}
@@ -58,7 +58,7 @@ const Header = () => {
           {/* <!-- Hamburger Toggle BTN --> */}
           <button
             aria-label="hamburger Toggler"
-            className="block xl:hidden"
+            className="block md:hidden"
             onClick={() => setNavigationOpen(!navigationOpen)}
           >
             <span className="relative block h-5.5 w-5.5 cursor-pointer">
@@ -98,13 +98,13 @@ const Header = () => {
 
         {/* Nav Menu Start   */}
         <div
-          className={`invisible h-0 w-full items-center justify-between xl:visible xl:flex xl:h-auto xl:w-full ${
+          className={`invisible h-0 w-full items-center justify-between md:visible md:flex md:h-auto md:w-full ${
             navigationOpen &&
-            "navbar !visible mt-4 h-auto max-h-[400px] rounded-md bg-white p-7.5 shadow-solid-5 dark:bg-blacksection xl:h-auto xl:p-0 xl:shadow-none xl:dark:bg-transparent"
+            "navbar !visible mt-4 h-auto max-h-[400px] rounded-md bg-white p-7.5 shadow-solid-5 dark:bg-blacksection md:h-auto md:p-0 md:shadow-none md:dark:bg-transparent"
           }`}
         >
           <nav>
-            <ul className="flex flex-col font-bold gap-5 xl:flex-row xl:items-center xl:gap-10">
+            <ul className="flex flex-col font-bold gap-5 md:flex-row md:items-center md:gap-10">
               {menuData.map((menuItem, key) => (
                 <li key={key} className={menuItem.submenu && "group relative"}>
                   {menuItem.submenu ? (
@@ -152,11 +152,11 @@ const Header = () => {
             </ul>
           </nav>
 
-          <div className="mt-7 flex items-center gap-6 xl:mt-0">
+          <div className="mt-7 flex items-center gap-6 md:mt-0">
             {/* <ThemeToggler /> */}
 
             <Link
-              href="https://nextjstemplates.com/templates/solid"
+              href="/auth/signup"
               className="flex items-center justify-center rounded-full bg-primary px-7.5 py-2.5 text-regular text-white duration-300 ease-in-out hover:bg-primaryho"
             >
               Register
@@ -164,7 +164,7 @@ const Header = () => {
           </div>
         </div>
       </div>
-    </header>
+    </div>
   );
 };
 

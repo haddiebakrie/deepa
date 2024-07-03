@@ -2,17 +2,38 @@
 import { motion } from "framer-motion";
 import Image from "next/image";
 import Link from "next/link";
-import { useState } from "react";
+import { FormEvent, useState } from "react";
 import dl from "../../public/images/shape/shape-dotted-light.svg"
 import dd from "../../public/images/shape/shape-dotted-dark.svg"
 
 const Signup = () => {
   const [data, setData] = useState({
-    firstName: "",
-    lastName: "",
-    email: "",
+    phone: "",
     password: "",
   });
+  async function onSubmit(event: FormEvent<HTMLFormElement>) {
+    event.preventDefault()
+ 
+    const formData = new FormData(event.currentTarget)
+    const response = await fetch("http://127.0.0.1:8000/signup",
+    {
+        method: "POST",
+        body: formData
+    })
+
+    if (!response.ok) {
+      throw new Error(`Error: ${response.statusText}`)
+  }
+ 
+    // Handle response if necessary
+    const data = await response.json()
+    if (data.status == "00") {
+      alert("User created successfully. Please verify your email.")
+    } else {
+        alert("User creation failed.")
+    
+    }
+  }
 
   return (
     <>
@@ -58,15 +79,25 @@ const Signup = () => {
             </h2>
 
 
-            <form>
+            <form onSubmit={onSubmit}>
               <div className="mb-7.5 flex flex-col gap-7.5 lg:mb-12.5 lg:flex-row lg:justify-between lg:gap-14">
                 <input
-                  name="phone"
-                  type="text"
+                  name="username"
+                  type="phone"
                   placeholder="+234XX XXX XXX XX"
-                  value={data.firstName}
+                  value={data.phone}
                   onChange={(e) =>
-                    setData({ ...data, [e.target.name]: e.target.value })
+                    setData({ ...data, ["phone"]: e.target.value })
+                  }
+                  className="w-full border-b border-stroke bg-transparent pb-3.5 focus:border-waterloo focus:placeholder:text-black focus-visible:outline-none dark:border-strokedark dark:focus:border-manatee dark:focus:placeholder:text-white lg:w-1/2"
+                />
+                <input
+                  name="password"
+                  type="password"
+                  placeholder="Password"
+                  value={data.password}
+                  onChange={(e) =>
+                    setData({ ...data, ["password"]: e.target.value })
                   }
                   className="w-full border-b border-stroke bg-transparent pb-3.5 focus:border-waterloo focus:placeholder:text-black focus-visible:outline-none dark:border-strokedark dark:focus:border-manatee dark:focus:placeholder:text-white lg:w-1/2"
                 />
