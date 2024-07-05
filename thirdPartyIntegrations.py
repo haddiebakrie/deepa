@@ -6,10 +6,20 @@ from bs4 import BeautifulSoup as bs
 import requests
 
 def parse_td(td):
+    """
+
+    :param td: 
+
+    """
     if td.text != "": return td.text
     return [x.text for x in td.find_all("li")]
 
-def fetch(page):
+def fetchJumiaProduct(page):
+    """
+
+    :param page: 
+
+    """
     req = requests.get(page)
     title = bs(req.text, 'html.parser').find(class_="-fs20 -pts -pbxs").text
     price = bs(req.text, 'html.parser').find(class_="-b -ubpt -tal -fs24 -prxs").text.replace("₦", "").replace(",", "")
@@ -17,6 +27,11 @@ def fetch(page):
     metadata = bs(req.text, 'html.parser').find_all("tr")
     all = []
     def parse_td(td):
+        """
+
+        :param td: 
+
+        """
         if td.text != "": return td.text
         return [x.text for x in td.find_all("li")]
     for i in metadata:

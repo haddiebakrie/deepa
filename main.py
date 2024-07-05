@@ -2,6 +2,7 @@ from datetime import datetime, timedelta, timezone
 import json
 import re
 from typing import Annotated
+import unicodedata
 import uuid
 import bcrypt
 from typing import Any
@@ -12,7 +13,8 @@ from fastapi.responses import HTMLResponse, JSONResponse, PlainTextResponse
 from email_validator import EmailNotValidError, validate_email
 from fastapi.security import OAuth2PasswordBearer, OAuth2PasswordRequestForm
 from jose import JWTError, jwt
-from productFromJumia import fetch
+import urllib
+from thirdPartyIntegrations import fetchJumiaProduct
 from models.store import Store
 from models.product import Product
 import database.product
@@ -41,47 +43,66 @@ ACCESS_TOKEN_EXPIRE_DAYS = 30
 
 
 class Manager(database.user.UserDB, database.store.StoreDB, database.product.ProductDB):
+    """ """
     pass
 
 manager = Manager()
 manager.initializeSchema()
 
 class DeepaJsonResponse:
+    """ """
 
     def __init__(self, obj, *args, **kwargs) -> None:
         self.json = None
-        # try:
+
         response = obj(*args)
         self.json = {
             "message": response,
             "status": "00"
         }
 
-        # except Exception as a:
-        #     self.json = {
-        #         "message": a.__str__(),
-        #         "status": "11"
-        #     }
-
     def unpack(self):
+        """ """
         return self.json
 
 
 def verify_password(plain_password, hashed_password):
+    """
+
+    :param plain_password: 
+    :param hashed_password: 
+
+    """
     return pwd_context.verify(plain_password, hashed_password)
 
 
 def get_password_hash(password):
+    """
+
+    :param password: 
+
+    """
     return pwd_context.hash(password)
 
 
 def get_user(phone: str):
+    """
+
+    :param phone: str: 
+
+    """
     u = manager.getUser(phone)
     if u:
         return u
 
 
 def create_access_token(data: dict, expires_delta: timedelta = None):
+    """
+
+    :param data: dict: 
+    :param expires_delta: timedelta:  (Default value = None)
+
+    """
     to_encode = data.copy()
     if expires_delta:
         expire = datetime.now(timezone.utc) + expires_delta
@@ -111,6 +132,47 @@ async def get_current_user(token: Annotated[str, Depends(oauth2_scheme)]):
         raise credentials_exception
     return user
 
+def url_path_join(*pieces):
+    """
+
+    :param *pieces: 
+
+    """
+    initial = pieces[0].startswith("/")
+    final = pieces[-1].endswith("/")
+    stripped = [s.strip("/") for s in pieces]
+    result = "/".join(s for s in stripped if s)
+    if initial:
+        result = "/" + result
+    if final:
+        result = result + "/"
+    if result == "//":
+        result = "/"
+    return result
+
+def slugify(raw, base="", max_length=30):  # noqa
+    """
+
+    :param raw: 
+    :param base:  (Default value = "")
+    :param max_length:  (Default value = 30)
+
+    """
+    raw = raw if raw.startswith("/") else "/" + raw
+    signature = ""
+    base = (base if base.startswith("/") else "/" + base).lower()
+    raw = raw.lower()
+    common = 0
+    limit = min(len(base), len(raw))
+    while common < limit and base[common] == raw[common]:
+        common += 1
+    value = url_path_join(base[common:], raw)
+    value = urllib.parse.unquote(value)
+    value = unicodedata.normalize("NFKC", value).encode("ascii", "ignore").decode("ascii")
+    value = re.sub(r"[^\w\s-]", "", value).strip()
+    value = re.sub(r"[-\s]+", "-", value)
+    return value[: max_length - len(signature)] + signature
+
 
 async def get_current_active_user(
     current_user: Annotated[User, Depends(get_current_user)]
@@ -119,6 +181,12 @@ async def get_current_active_user(
 
 
 def authenticate_user(username: str, password: str):
+    """
+
+    :param username: str: 
+    :param password: str: 
+
+    """
     user = get_user(username)
     if not user:
         return None
@@ -132,6 +200,11 @@ async def http_exception_handler(request, exc):
     if exc.status_code == 401:
 
         def msg(e):
+            """
+
+            :param e: 
+
+            """
             return "Authentication missing in request header or Invalid Authentication, Visit https://docs.trydeepa.com/authentication for help."
 
         result = DeepaJsonResponse(msg, 0)
@@ -141,6 +214,12 @@ async def http_exception_handler(request, exc):
 
 @app.get("/", response_class=JSONResponse)
 def index(token: Annotated[str, Depends(oauth2_scheme)]):
+    """
+
+    :param token: Annotated[str: 
+    :param Depends(oauth2_scheme)]: 
+
+    """
     return {"api-version": 1.0, "version-name": "genesis", "status": "okay"}
 
 
@@ -163,6 +242,12 @@ async def login_for_access_token(
 
 @app.post("/signup", response_class=JSONResponse)
 def signup(form_data: Annotated[OAuth2PasswordRequestForm, Depends()]):
+    """
+
+    :param form_data: Annotated[OAuth2PasswordRequestForm: 
+    :param Depends()]: 
+
+    """
     userID = uuid.uuid4()
     ashiri = get_password_hash(form_data.password)
     result = DeepaJsonResponse(
@@ -172,6 +257,13 @@ def signup(form_data: Annotated[OAuth2PasswordRequestForm, Depends()]):
 
 @app.get("/store/{storeID}/revenue", response_class=JSONResponse)
 def getTotalRevenue(current_user: Annotated[User, Depends(get_current_user)], storeID):
+    """
+
+    :param current_user: Annotated[User: 
+    :param Depends(get_current_user)]: 
+    :param storeID: 
+
+    """
     result = DeepaJsonResponse(
         manager.getStoreRevenue, storeID, current_user.id, status="00"
     )
@@ -179,6 +271,11 @@ def getTotalRevenue(current_user: Annotated[User, Depends(get_current_user)], st
 
 @app.get("/store/{handle}", response_class=JSONResponse)
 def getTotalRevenue(handle):
+    """
+
+    :param handle: 
+
+    """
     result = DeepaJsonResponse(
         manager.getStore, handle, status="00"
     )
@@ -186,6 +283,11 @@ def getTotalRevenue(handle):
 
 @app.get("/product/{id}", response_class=JSONResponse)
 def getProduct(id):
+    """
+
+    :param id: 
+
+    """
     result = DeepaJsonResponse(
         manager.getProduct, id, status="00"
     )
@@ -193,6 +295,13 @@ def getProduct(id):
 
 @app.get("/store/{storeID}/sales", response_class=JSONResponse)
 def getSales(current_user: Annotated[User, Depends(get_current_user)], storeID):
+    """
+
+    :param current_user: Annotated[User: 
+    :param Depends(get_current_user)]: 
+    :param storeID: 
+
+    """
     result = DeepaJsonResponse(
         manager.getStoreSales, storeID, current_user.id, status="00"
     )
@@ -200,6 +309,11 @@ def getSales(current_user: Annotated[User, Depends(get_current_user)], storeID):
 
 @app.get("/store/{storeID}/products", response_class=JSONResponse)
 def getProducts(storeID):
+    """
+
+    :param storeID: 
+
+    """
     result = DeepaJsonResponse(
         manager.getStoreProducts, storeID, status="00"
     )
@@ -208,6 +322,13 @@ def getProducts(storeID):
 
 @app.get("/user/store/{storeID}/products", response_class=JSONResponse)
 def getProducts(current_user: Annotated[User, Depends(get_current_user)], storeID):
+    """
+
+    :param current_user: Annotated[User: 
+    :param Depends(get_current_user)]: 
+    :param storeID: 
+
+    """
     result = DeepaJsonResponse(
         manager.getStoreProducts, storeID, current_user.id, status="00"
     )
@@ -215,6 +336,13 @@ def getProducts(current_user: Annotated[User, Depends(get_current_user)], storeI
 
 @app.get("/user/store/{storeID}", response_class=JSONResponse)
 def getProducts(current_user: Annotated[User, Depends(get_current_user)], storeID):
+    """
+
+    :param current_user: Annotated[User: 
+    :param Depends(get_current_user)]: 
+    :param storeID: 
+
+    """
     result = DeepaJsonResponse(
         manager.getStore, storeID, current_user.id, status="00"
     )
@@ -222,6 +350,13 @@ def getProducts(current_user: Annotated[User, Depends(get_current_user)], storeI
 
 @app.get("/user/store/{storeID}/analytics", response_class=JSONResponse)
 def getProducts(current_user: Annotated[User, Depends(get_current_user)], storeID):
+    """
+
+    :param current_user: Annotated[User: 
+    :param Depends(get_current_user)]: 
+    :param storeID: 
+
+    """
     result = DeepaJsonResponse(
         manager.getStoreAnalytics, storeID, current_user.id, status="00"
     )
@@ -229,6 +364,12 @@ def getProducts(current_user: Annotated[User, Depends(get_current_user)], storeI
 
 @app.get("/user/store", response_class=JSONResponse)
 def getStores(current_user: Annotated[User, Depends(get_current_user)]):
+    """
+
+    :param current_user: Annotated[User: 
+    :param Depends(get_current_user)]: 
+
+    """
     result = DeepaJsonResponse(
         manager.getStores, current_user.id, status="00"
     )
@@ -236,11 +377,19 @@ def getStores(current_user: Annotated[User, Depends(get_current_user)]):
 
 
 class URL(BaseModel):
+    """ """
     url: str
     storeID: str
 
 @app.post("/product/create", response_class=JSONResponse)
 def createProduct(current_user: Annotated[User, Depends(get_current_user)], product: Product):
+    """
+
+    :param current_user: Annotated[User: 
+    :param Depends(get_current_user)]: 
+    :param product: Product: 
+
+    """
     product.userID = current_user.id
     product.productID = str(uuid.uuid4())
     product.storeID = manager.getStore(product.storeID, userID=current_user.id).storeID
@@ -252,7 +401,14 @@ def createProduct(current_user: Annotated[User, Depends(get_current_user)], prod
 
 @app.post("/product/create/url", response_class=JSONResponse)
 def createProductFromJumiaURL(current_user: Annotated[User, Depends(get_current_user)], url:URL):
-    res = fetch(url.url)
+    """
+
+    :param current_user: Annotated[User: 
+    :param Depends(get_current_user)]: 
+    :param url:URL: 
+
+    """
+    res = fetchJumiaProduct(url.url)
     product = Product(**res)
     product.userID = current_user.id
     product.productID = str(uuid.uuid4())
@@ -264,15 +420,43 @@ def createProductFromJumiaURL(current_user: Annotated[User, Depends(get_current_
 
 @app.post("/store/create", response_class=JSONResponse)
 def createProduct(current_user: Annotated[User, Depends(get_current_user)], store: Store):
+    """
+
+    :param current_user: Annotated[User: 
+    :param Depends(get_current_user)]: 
+    :param store: Store: 
+
+    """
     store.userID = current_user.id
     store.storeID = str(uuid.uuid4())
-    print(store)
+    if store.handle == '':
+        store.handle = slugify(store.storeTitle)
     result = DeepaJsonResponse(
         manager.createStore, store, status="00"
     )
     return result.unpack()
 
+@app.post("/store/update", response_class=JSONResponse)
+def createProduct(current_user: Annotated[User, Depends(get_current_user)], store: Store):
+    """
+
+    :param current_user: Annotated[User: 
+    :param Depends(get_current_user)]: 
+    :param store: Store: 
+
+    """
+    store.userID = current_user.id
+    result = DeepaJsonResponse(
+        manager.updateStoreBulk, store, status="00"
+    )
+    return result.unpack()
+
 def dict_to_func(_dict):
+    """
+
+    :param _dict: 
+
+    """
     return _dict
 
 @app.get("/user/me", response_class=JSONResponse)

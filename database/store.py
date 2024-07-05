@@ -106,6 +106,29 @@ class StoreDB(DBSchema):
                 return self.getStore(storeID, userID)
 
     @db_error_handler
+    def updateStoreBulk(self, store):
+        storeID = store.storeID
+        userID = store.userID
+        with self.connect() as conn:
+            with conn.cursor() as cursor:
+                cursor.execute(
+                    f"""
+                    UPDATE "store"
+                    SET handle=%s, storeTitle=%s, storeDescription=%s, metadata=%s
+                    WHERE storeID=%s AND userID=%s AND deletedAt IS NULL
+                """,
+                    (
+                    store.handle,
+                    store.storeTitle,
+                    store.storeDescription,
+                    json.dumps(store.metadata), storeID, userID),
+                )
+                conn.commit()
+
+                return self.getStore(storeID, userID)
+
+
+    @db_error_handler
     def deleteStore(self, storeID, userID=None):
         store = self.getStore(storeID, userID)
         if store:
