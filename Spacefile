@@ -1,0 +1,32 @@
+# Spacefile Docs: https://go.deta.dev/docs/spacefile/v0
+v: 0
+micros:
+  - name: deepa
+    src: ./
+    engine: python3.9
+    primary: true
+    public_routes:
+      - "/*"
+    presets:
+      env:
+        - name: VERSION
+          description: App version
+          default: "0.1"
+        - name: PG_PLAIN
+          description: Pg plain
+          default: "avnadmin"
+        - name: PG_OBSCURE
+          description: Pg plain
+          default: "AVNS_kibo7rJqSY4isoPOI_q"
+        - name: TITLE
+          description: Pg plain
+          default: "defaultdb"
+        - name: STORE_URL_DOMAIN
+          description: Pg plain
+          default: "https://deepastore/"
+        - name: PG_PORT
+          description: Pg port
+          default: "12104"
+        - name: PG_HOST
+          description: Pg host
+          default: "freedb-haddydb.e.aivencloud.com"
