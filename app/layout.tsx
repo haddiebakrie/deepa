@@ -19,19 +19,19 @@ const jsonLd =
 {
       "@context": "https://schema.org",
       "@type": "Organization",
-      "image": "https://www.trydeepa.com//DeepaTransparent-01.png",
-    "url": "https://www.newdigit.com",
-    "logo": "https://www.trydeepa.com//DeepaTransparent-01.png",
+      "image": "https:///www.deepa.ng//DeepaTransparent-01.png",
+    "url": "https:///www.deepa.ng",
+    "logo": "https://www.deepa.ng//DeepaTransparent-01.png",
     "name": "Deepa",
-      "description": "Empowering a Sustainable Future: Clean & Smart Energy for All",
-    "email": "contact@trydeepa.com",
+      "description": "Empowering African SMEs",
+    "email": "help@trydeepa.ng",
     "telephone": "+2349049500328",
       "address": {
       "@type": "PostalAddress",
-      "streetAddress": "7 Lilac Close, Diamond Estate, Cardinal Anthony Olubunmi Okogie Road",
-      "addressLocality": "Lagos",
+      "streetAddress": "Poly Road, Ede, Osun state",
+      "addressLocality": "Osun",
       "addressCountry": "NG",
-      "addressRegion": "Eti-Osa, Sangotedo",
+      "addressRegion": "Ede South, Ede",
       "postalCode": "106104"
     }
 }

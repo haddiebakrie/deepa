@@ -20,8 +20,8 @@ const Integration = () => {
           <SectionHeader
             headerInfo={{
               title: `INTEGRATIONS`,
-              subtitle: `Remotely Maintain Your Business, From Anywhere, Anytime.`,
-              description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam ante in maximus.`,
+              subtitle: `Streamline Your Business with Powerful Integrations.`,
+              description: `Deepa connects you to top marketplaces, payment gateways, and tools like Amazon, Paystack, and Google Analytics. Manage your store, payments, and logistics all in one platform for seamless growth.`,
             }}
           />
 

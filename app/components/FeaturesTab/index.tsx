@@ -65,7 +65,7 @@ const FeaturesTab = () => {
               </div>
               <div className="md:w-3/5 lg:w-auto">
                 <button className="text-sm font-medium text-black dark:text-white xl:text-regular">
-                  Clean User Interface
+                    Online Store Creation
                 </button>
               </div>
             </div>
@@ -84,7 +84,7 @@ const FeaturesTab = () => {
               </div>
               <div className="md:w-3/5 lg:w-auto">
                 <button className="text-sm font-medium text-black dark:text-white xl:text-regular">
-                  Essential Business Pages
+                    AI-Driven Business Assistance
                 </button>
               </div>
             </div>
@@ -103,7 +103,7 @@ const FeaturesTab = () => {
               </div>
               <div className="md:w-3/5 lg:w-auto">
                 <button className="text-sm font-medium text-black dark:text-white xl:text-regular">
-                  Fully Functional Integrations
+                    Secure Escrow Payments
                 </button>
               </div>
             </div>
